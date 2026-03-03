@@ -1,0 +1,147 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌋",
+  "titre": "Évasion Relaxante aux Açores : Ponta Delgada",
+  "budget_total": "Environ 700 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "7h (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée Douce à Ponta Delgada",
+      "legende": "Après un vol vers l'île de São Miguel, installez-vous et laissez-vous charmer par l'ambiance paisible de Ponta Delgada. Une balade relaxante dans le centre historique est parfaite pour s'imprégner de l'atmosphère açorienne et débuter le voyage en douceur.",
+      "lieu": "Ponta Delgada",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Ponta Delgada (PDL) et transfert vers votre hébergement. Profitez du trajet pour admirer les premiers paysages verdoyants de l'île.",
+        "<strong>🛏️</strong>: Installation à l'hôtel et moment de détente. Prenez le temps de vous rafraîchir et de vous préparer pour la soirée.",
+        "<strong>🚶‍♂️</strong>: Balade paisible dans le centre historique de Ponta Delgada, découvrant ses rues pavées, ses églises baroques et son port animé. Terminez par un dîner dans un restaurant local."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le décalage horaire avec Paris est de -2 heures. Pensez à ajuster vos montres pour profiter pleinement de votre séjour dès l'arrivée."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌋",
+      "titre": "Immersion Thermale et Nature Volcanique",
+      "legende": "Plongez au cœur de la nature volcanique des Açores avec une journée dédiée à la détente et à la découverte des sources chaudes de Furnas. Un cadre idyllique pour se ressourcer et goûter aux saveurs uniques de l'île.",
+      "lieu": "Furnas",
+      "activites": [
+        "<strong>🚗</strong>: Départ matinal pour la vallée de Furnas, un écrin de verdure volcanique réputé pour ses phénomènes géothermiques et son lac.",
+        "<strong>♨️</strong>: Baignade relaxante dans les piscines thermales de Terra Nostra Park, un jardin botanique luxuriant où les eaux ferrugineuses apaisent le corps et l'esprit.",
+        "<strong>🍲</strong>: Dégustation du \"Cozido das Furnas\", un plat traditionnel cuit sous terre grâce à la chaleur volcanique, une expérience culinaire inoubliable.",
+        "<strong>🚶‍♀️</strong>: Courte promenade autour du lac de Furnas pour admirer les fumerolles et les caldeiras, témoins de l'activité géothermique de l'île."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parque Terra Nostra, Furnas",
+          "categorie": "Jardin botanique / Sources chaudes",
+          "coords": { "lat": 37.7735, "lng": -25.3135 }
+        },
+        {
+          "nom_recherche": "Lagoa das Furnas, Furnas",
+          "categorie": "Lac / Caldeiras",
+          "coords": { "lat": 37.7660, "lng": -25.3300 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "♨️",
+          "titre": "Astuce",
+          "texte": "Les eaux thermales de Furnas sont riches en fer et peuvent tacher les maillots de bain clairs. Prévoyez un maillot de couleur foncée pour éviter les mauvaises surprises."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Panoramas Époustouflants et Doux Adieux",
+      "legende": "Explorez les paysages emblématiques de Sete Cidades, avec ses lacs aux couleurs contrastées, avant de profiter d'un dernier moment à Ponta Delgada et de prendre votre vol retour, la tête pleine de souvenirs açoriens.",
+      "lieu": "Sete Cidades / Ponta Delgada",
+      "activites": [
+        "<strong>🚗</strong>: Route panoramique vers Sete Cidades, l'un des sites les plus iconiques des Açores, offrant des vues spectaculaires sur les lacs et la caldeira.",
+        "<strong>📸</strong>: Admiration des vues depuis le Miradouro da Vista do Rei et le Miradouro da Boca do Inferno (accès facile), des points de vue incontournables pour saisir la beauté des lacs jumeaux.",
+        "<strong>🚶‍♀️</strong>: Balade tranquille autour des lacs jumeaux de Sete Cidades, appréciant la sérénité du lieu et la palette de couleurs entre le vert et le bleu.",
+        "<strong>✈️</strong>: Retour à l'aéroport de Ponta Delgada pour votre vol, après avoir profité d'un dernier repas ou d'un achat de souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Miradouro da Vista do Rei, Sete Cidades",
+          "categorie": "Point de vue",
+          "coords": { "lat": 37.8590, "lng": -25.7900 }
+        },
+        {
+          "nom_recherche": "Lagoa das Sete Cidades, Sete Cidades",
+          "categorie": "Lac",
+          "coords": { "lat": 37.8650, "lng": -25.7800 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Attention",
+          "texte": "La météo aux Açores peut changer rapidement, surtout en altitude. Prévoyez des couches de vêtements et un imperméable, même si le soleil brille au départ."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 355 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 75 €/pers (location voiture)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 120 €/pers (3 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 100 €/pers (2 nuits en 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 35 €/pers (entrées et repas spécial)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Octobre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "En octobre, les températures varient entre 15 et 20°C. Prévoir des vêtements pour la pluie et le soleil, la météo est changeante.", "symbole": "🌦️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant. La conduite se fait à droite. Une voiture de location est fortement recommandée pour explorer l'île.", "symbole": "🚗" },
+    { "titre": "Le Wi-Fi est disponible dans la plupart des hébergements. Une eSIM ou carte SIM locale peut être utile pour la navigation.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Les Açores sont le seul endroit en Europe où l'on cultive le thé à l'échelle industrielle. La plantation de Gorreana est un témoignage vivant de cette tradition unique, offrant des thés verts et noirs d'exception." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "Le \"Cozido das Furnas\" est un plat mijoté pendant des heures sous terre, dans des marmites enfouies dans le sol volcanique. Une cuisson naturelle et savoureuse qui utilise la chaleur de la terre !" 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Cozido das Furnas", 
+      "description": "Un ragoût de viandes (bœuf, porc, poulet, saucisses) et légumes (chou, carottes, pommes de terre) cuit lentement sous terre grâce à la chaleur géothermique de Furnas. Une expérience culinaire unique et savoureuse." 
+    },
+    { 
+      "symbole": "🍍", 
+      "titre": "Ananas des Açores", 
+      "description": "Cultivé sous serre, cet ananas est petit, très sucré et juteux, avec un parfum intense. Un délice local à ne pas manquer, souvent servi en dessert, en confiture ou en liqueur." 
+    },
+    { 
+      "symbole": "🧀", 
+      "titre": "Queijo da Ilha", 
+      "description": "Un fromage de vache à pâte dure ou semi-dure, affiné pendant plusieurs mois, avec une saveur intense et légèrement piquante. Idéal en apéritif ou avec un bon vin local." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-PDL/2026-10-06/2026-10-09", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Azores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Météo", "titre": "IPMA (Météo Portugal)", "url": "https://www.ipma.pt/pt/index.html", "symbole": "🌤️" },
+    { "legende": "Location de voiture", "titre": "Rentalcars.com", "url": "https://www.rentalcars.com/", "symbole": "🚗" }
+  ]
+}
